@@ -1,0 +1,14 @@
+biryani          470
+pasta            370
+pulao            600
+kabab            200
+daal             999
+chicken          1200
+mutton           1980
+steak            1500
+desi-deal        2000
+pizza            750
+burger           499
+shwarma          250
+manchorian       399
+1    470

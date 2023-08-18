@@ -1,0 +1,80 @@
+
+order no 1   hasnain
+ITEM   pizza
+ITEM   manchorian
+ITEM   steak
+_______________________________
+order no 2   Ali
+ITEM   steak
+ITEM   burger
+_______________________________
+order no 1   webguard
+ITEM   pulao
+ITEM   biryani
+_______________________________
+order no 1   ajs
+ITEM   mutton
+_______________________________
+order no 2   afag
+ITEM   burger
+_______________________________
+order no 3   name
+ITEM   burger
+_______________________________
+order no 1   asd
+ITEM   daal
+_______________________________
+order no 2   fd
+ITEM   mutton
+_______________________________
+order no 1   pizza
+ITEM   pizza
+_______________________________
+order no 2   ali
+ITEM   kabab
+_______________________________
+order no 1   kashaif
+ITEM   steak
+_______________________________
+order no 1   asdfg
+ITEM   burger
+_______________________________
+order no 2   daal
+ITEM   daal
+_______________________________
+order no 1   pulao
+ITEM   pulao
+_______________________________
+order no 2   mutton
+ITEM   mutton
+_______________________________
+order no 3   s
+_______________________________
+order no 4   steak
+ITEM   steak
+_______________________________
+order no 1   moni
+ITEM   burger
+_______________________________
+order no 1   moni
+_______________________________
+order no 1   kawasakiii
+ITEM   desi-deal
+_______________________________
+order no 2   ajs
+ITEM   biryani
+_______________________________
+order no 1   p
+ITEM   pizza
+_______________________________
+order no 1   m
+ITEM   mutton
+ITEM   pasta
+_______________________________
+order no 1   1
+_______________________________
+order no 1   e
+_______________________________
+order no 2   
+order no 1   sunain
+_______________________________
